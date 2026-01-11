@@ -15,7 +15,7 @@ across countries.
 - World Bank population and healthcare indicators
 
 ## Dashboard
-👉 Tableau Public link: [ADD LINK HERE]
+👉 Tableau Public link: https://10ay.online.tableau.com/#/site/xtan2/views/ConsolidateGroupProjectDraft/Dashboard2/52f80b62-eaf9-4085-be11-c264430528bb/1f97168f-743e-4b0a-924c-7fbc489e45b1
 
 ## Key Insights
 - TB incidence varies significantly when normalized by population
